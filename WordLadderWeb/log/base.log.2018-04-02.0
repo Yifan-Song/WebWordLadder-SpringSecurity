@@ -1,0 +1,14 @@
+2018-04-02 15:51:43,284 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on Bo-PC with PID 2920 (C:\Users\Bo\IdeaProjects\WordLadderWeb\target\classes started by Bo in C:\Users\Bo\IdeaProjects\WordLadderWeb)
+2018-04-02 15:51:43,287 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-02 15:51:43,301 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-02 15:51:51,605 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 9.738 seconds (JVM running for 18.396)
+2018-04-02 15:52:24,507 DEBUG (Controller.java:79)- result=A ladder from pig back to big:
+pigbig
+2018-04-02 16:00:29,748 INFO (StartupInfoLogger.java:50)- Starting DemoApplicationTests on Bo-PC with PID 7236 (started by Bo in C:\Users\Bo\IdeaProjects\WordLadderWeb)
+2018-04-02 16:00:29,750 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-02 16:00:29,752 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-02 16:00:35,327 INFO (StartupInfoLogger.java:59)- Started DemoApplicationTests in 6.898 seconds (JVM running for 11.791)
+2018-04-02 16:02:51,938 INFO (StartupInfoLogger.java:50)- Starting DemoApplicationTests on Bo-PC with PID 16432 (started by Bo in C:\Users\Bo\IdeaProjects\WordLadderWeb)
+2018-04-02 16:02:51,939 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-02 16:02:51,943 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-02 16:02:54,381 INFO (StartupInfoLogger.java:59)- Started DemoApplicationTests in 2.783 seconds (JVM running for 4.904)
